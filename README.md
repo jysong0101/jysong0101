@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={깃헙 아이디})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={jysong0101})
